@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @agustrinaldokurniawan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in how tech things going to growth in the future
+- 🌱 I’m currently learning JS/TS, Go, Java, and Kotlin - In Android/Web/Desktop Apps Development
 
-Don't know what to type here, I'll leave it like default, maybe I will update it later :)
 
-<!---
-agustrinaldokurniawan/agustrinaldokurniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Connect with me**
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)][1]
+
+[1]:https://www.linkedin.com/in/agustrk
+
