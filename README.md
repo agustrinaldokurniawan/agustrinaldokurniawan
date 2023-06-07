@@ -4,7 +4,7 @@
 
 
 **Connect with me**
-[![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48")][1]
+[![LinkedIn]([<img src="" width="48" height="48"](https://cdn-icons-png.flaticon.com/512/174/174857.png)){:height=50}][1]
 
 [1]:https://www.linkedin.com/in/agustrk
 
