@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @agustrinaldokurniawan
-- 👀 I’m interested in how tech things going to growth in the future
-- 🌱 I’m currently learning JS/TS, Go, Java, and Kotlin - In Android/Web/Desktop Apps Development
 
 
 **Connect with me**<br/>
